@@ -14,6 +14,7 @@ public class Employee {
     }
 
  /*   @Override
+
     public boolean equals(Object obj) {
         if (this==obj) return true; // проверка на сравнение с самим собой
         if(obj==null || this.getClass() != obj.getClass()) return false;// Проверка на совпадение классов

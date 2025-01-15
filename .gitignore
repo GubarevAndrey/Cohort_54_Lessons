@@ -1,6 +1,5 @@
-.idea/
 *.iml
-lib
-out
-Programmi.iml
+lib/
+.idea/
+.gitignore
 

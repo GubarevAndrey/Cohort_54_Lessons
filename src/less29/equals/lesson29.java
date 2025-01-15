@@ -30,6 +30,7 @@ public class lesson29 {
         System.out.println(employee2.equals(employee4)); // false
         System.out.println(employee2.equals(employee3)); // false
 
+
         System.out.println("================");
         Employee nullemployee = new Employee(null,null,25);
         Employee nullemployee1 = new Employee(null,null,25);
